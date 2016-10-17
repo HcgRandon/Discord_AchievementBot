@@ -9,3 +9,5 @@ A Discord Bot that generates achievements
 
 I will not help you setting up the bot, but the only thing I will give you is this:
 https://discordapp.com/developers/applications/me
+
+<img src="http://i.imgur.com/iIeb9nn.png">
